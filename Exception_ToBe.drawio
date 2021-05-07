@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T15:01:23.180Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="C2AtoMe127FiQzFXieLR" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T15:03:12.240Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="6JnGTMLO9ft8vZKld6Eu" version="14.5.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="868" dy="860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="1167" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="64" y="24" width="2481" height="963.7679201331114" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Exception Workflow" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="IFuyZPGNjVIuvtVVakYO-29" vertex="1">
-          <mxGeometry x="30" y="21.995524126455905" width="2483" height="942.7723960066555" as="geometry" />
+          <mxGeometry x="30" y="21.995524126455905" width="2412" height="942.7723960066555" as="geometry" />
         </mxCell>
         <mxCell id="odL_kuYQyDZu3IrtF_Gq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="IFuyZPGNjVIuvtVVakYO-25" target="IFuyZPGNjVIuvtVVakYO-23">
           <mxGeometry relative="1" as="geometry">
@@ -19,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="Requestor / User" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" width="2463" height="217" as="geometry" />
+          <mxGeometry x="20" width="2392" height="217" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-24" value="Exception Form filled in SNOW" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="99.5" y="112.19134775374374" width="95" height="57.9034941763727" as="geometry" />
@@ -117,7 +117,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="SNOW" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="217" width="2463" height="565.64" as="geometry" />
+          <mxGeometry x="20" y="217" width="2392" height="565.64" as="geometry" />
         </mxCell>
         <mxCell id="IFuyZPGNjVIuvtVVakYO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" parent="dNxyNK7c78bLwvsdeMH5-21" target="IFuyZPGNjVIuvtVVakYO-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -391,6 +391,15 @@
         <mxCell id="odL_kuYQyDZu3IrtF_Gq-198" value="Notification to the user: Your Policy/Exception expired" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="1168" y="270.56" width="163" height="57.9" as="geometry" />
         </mxCell>
+        <mxCell id="IFuyZPGNjVIuvtVVakYO-94" value="" style="endArrow=none;dashed=1;html=1;fontSize=10;" parent="dNxyNK7c78bLwvsdeMH5-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="845" y="725.0044758735442" as="sourcePoint" />
+            <mxPoint x="845" y="-218.9955241264559" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="845" y="41.004475873544095" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="odL_kuYQyDZu3IrtF_Gq-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="IFuyZPGNjVIuvtVVakYO-51" target="IFuyZPGNjVIuvtVVakYO-49">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1690.5" y="827.0326788685527" as="targetPoint" />
@@ -408,7 +417,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="DLP Team - Level 2" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="782.64" width="2463" height="160.13239600665557" as="geometry" />
+          <mxGeometry x="20" y="782.64" width="2392" height="160.13239600665557" as="geometry" />
         </mxCell>
         <mxCell id="odL_kuYQyDZu3IrtF_Gq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="IFuyZPGNjVIuvtVVakYO-23" target="odL_kuYQyDZu3IrtF_Gq-25">
           <mxGeometry relative="1" as="geometry" />
@@ -453,19 +462,10 @@
           <mxGeometry x="2036" y="46.002678868552394" width="120" height="57.90349417637271" as="geometry" />
         </mxCell>
         <mxCell id="IFuyZPGNjVIuvtVVakYO-28" value="New Exception/Policy&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" parent="IFuyZPGNjVIuvtVVakYO-32" vertex="1">
-          <mxGeometry x="112" y="15.04" width="824" height="28.95" as="geometry" />
+          <mxGeometry x="134" y="16.09" width="826" height="28.95" as="geometry" />
         </mxCell>
         <mxCell id="IFuyZPGNjVIuvtVVakYO-30" value="Exception/Policy Lifecycle" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" parent="IFuyZPGNjVIuvtVVakYO-32" vertex="1">
-          <mxGeometry x="936" y="15.04" width="1503" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IFuyZPGNjVIuvtVVakYO-94" value="" style="endArrow=none;dashed=1;html=1;fontSize=10;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1026" y="949" as="sourcePoint" />
-            <mxPoint x="1026" y="5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1026" y="265" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="960" y="16.04" width="1503" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
