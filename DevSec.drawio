@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T20:24:07.379Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="G9IK3gjnB76n7mgmbBMx" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T20:26:09.166Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="P6pnM_jNSxyl2UIk5d0o" version="14.6.11" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1268" dy="460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="P2mCXTFYUP4-GHEFsYgf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P2mCXTFYUP4-GHEFsYgf-2" target="P2mCXTFYUP4-GHEFsYgf-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P2mCXTFYUP4-GHEFsYgf-2" value="Requisição do Pipeline" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="P2mCXTFYUP4-GHEFsYgf-2" value="Requisição do Pipeline" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="170" y="80" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P2mCXTFYUP4-GHEFsYgf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P2mCXTFYUP4-GHEFsYgf-8" target="P2mCXTFYUP4-GHEFsYgf-20">
@@ -68,18 +68,18 @@
         <mxCell id="P2mCXTFYUP4-GHEFsYgf-20" value="Ambiente do&amp;nbsp;&lt;br&gt;Deploy" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="180" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="P2mCXTFYUP4-GHEFsYgf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P2mCXTFYUP4-GHEFsYgf-27" target="P2mCXTFYUP4-GHEFsYgf-32">
+        <mxCell id="P2mCXTFYUP4-GHEFsYgf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P2mCXTFYUP4-GHEFsYgf-27" target="P2mCXTFYUP4-GHEFsYgf-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="525" y="443" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="497" y="430" />
+              <mxPoint x="497" y="423" />
               <mxPoint x="497" y="496" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P2mCXTFYUP4-GHEFsYgf-34" value="False OR null" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P2mCXTFYUP4-GHEFsYgf-33">
+        <mxCell id="P2mCXTFYUP4-GHEFsYgf-34" value="not (Go Live Approved &lt;br&gt;or Assessment not Needed)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P2mCXTFYUP4-GHEFsYgf-33">
           <mxGeometry x="-0.25" y="-1" relative="1" as="geometry">
-            <mxPoint x="6" y="-14" as="offset" />
+            <mxPoint x="6" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P2mCXTFYUP4-GHEFsYgf-48" value="Go Live Approved&amp;nbsp;&lt;br&gt;OR&lt;br&gt;Assessment Not Needed" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P2mCXTFYUP4-GHEFsYgf-27" target="P2mCXTFYUP4-GHEFsYgf-30">
