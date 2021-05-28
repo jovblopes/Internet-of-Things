@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T12:27:18.084Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="AO_Jh3WzpWpL4ZBOBBRe" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T12:28:58.417Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="t_cFCb0cBzuS3WZi-vgS" version="14.7.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1421" dy="541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -279,6 +279,15 @@
         </mxCell>
         <mxCell id="mxX-lMOzghnve2rZTO9A-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#B80202;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="282" y="82" width="81" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="mxX-lMOzghnve2rZTO9A-36" value="&lt;b&gt;Not Applicable&lt;br&gt;&lt;/b&gt;Same GEARR ID may be related &lt;br&gt;to more than one PSA IDs&lt;br&gt;(1 to n relation)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="438" y="76" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mxX-lMOzghnve2rZTO9A-37" value="" style="endArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="363" y="103" as="sourcePoint" />
+            <mxPoint x="433" y="103" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
