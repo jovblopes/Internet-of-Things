@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T13:00:02.693Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="ji4JX-4BzOVFufAUocRI" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-11T13:19:50.122Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="4sWT2rQ-3o8532u5UtPJ" version="14.7.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1847" dy="1167" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1421" dy="941" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -403,10 +403,10 @@
           <mxGeometry x="2025" y="598" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="G1Xill-yS94K5dL7RhQr-68" value="Liberado para Execução" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1798" y="745" width="120" height="60" as="geometry" />
+          <mxGeometry x="1814" y="743" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G1Xill-yS94K5dL7RhQr-70" value="Bloqueado para Execução" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2203.5" y="745" width="120" height="60" as="geometry" />
+          <mxGeometry x="2149" y="743" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G1Xill-yS94K5dL7RhQr-73" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;not (Go Live Approved&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;or Assessment not Needed)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2118" y="598" width="145" height="42" as="geometry" />
