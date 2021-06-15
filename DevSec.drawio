@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T14:13:23.205Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="xROhsriK0dHXReyV2SYP" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-15T14:20:36.352Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="IvLztdRhocw95zwoHoO8" version="14.7.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="-360" dy="1057" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="-579" dy="941" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,9 +66,9 @@
         <mxCell id="G1Xill-yS94K5dL7RhQr-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="G1Xill-yS94K5dL7RhQr-45" target="G1Xill-yS94K5dL7RhQr-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G1Xill-yS94K5dL7RhQr-51" value="Usuário faz a Seleção do Registro (drop-down list)&lt;br&gt;&amp;nbsp;baseado na GEARR ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="G1Xill-yS94K5dL7RhQr-49" vertex="1" connectable="0">
+        <mxCell id="G1Xill-yS94K5dL7RhQr-51" value="Usuário faz a Seleção do Registro (drop-down list)&lt;br&gt;&amp;nbsp;baseado na GEARR ID&lt;br&gt;Só é possível selecionar entradas &lt;br&gt;com datas de Go-Live&amp;gt;dataHoje" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="G1Xill-yS94K5dL7RhQr-49" vertex="1" connectable="0">
           <mxGeometry x="-0.0423" y="-2" relative="1" as="geometry">
-            <mxPoint x="-22" y="-21" as="offset" />
+            <mxPoint x="-16" y="33" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G1Xill-yS94K5dL7RhQr-45" value="Requisição do Pipeline" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
