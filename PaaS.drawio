@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T13:34:54.895Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="1nxs3u78LRw0SvnjCsRa" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-06T13:39:29.660Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="-3Gcb2_2jaKEtHbveI7e" version="14.8.4" type="github">
   <diagram id="TiFRca5dtkU5tiBfq6bS" name="Page-1">
-    <mxGraphModel dx="2130" dy="912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2995" dy="2168" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,6 +41,9 @@
         </mxCell>
         <mxCell id="hBUTBRrio8c5EA31uLLS-12" value="&lt;font style=&quot;font-size: 20px&quot;&gt;PSA Necessário&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="157" y="1412" width="929" height="167" as="geometry" />
+        </mxCell>
+        <mxCell id="hBUTBRrio8c5EA31uLLS-20" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Nova request para produção&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="403" y="-419" width="666" height="161" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
