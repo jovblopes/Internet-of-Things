@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T13:26:46.365Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.8.4" etag="7YG8fL-G2m9AqXwjskR2" type="github"><diagram id="TiFRca5dtkU5tiBfq6bS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-06T13:34:54.895Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="1nxs3u78LRw0SvnjCsRa" version="14.8.4" type="github">
+  <diagram id="TiFRca5dtkU5tiBfq6bS" name="Page-1">
+    <mxGraphModel dx="2130" dy="912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hBUTBRrio8c5EA31uLLS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBUTBRrio8c5EA31uLLS-1" target="hBUTBRrio8c5EA31uLLS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBUTBRrio8c5EA31uLLS-1" value="&lt;br&gt;Q1:&lt;br&gt;You are making significant change to an Application, Product or PoC, where one or more of the following criteria applies:&lt;br&gt;- Architecture;&lt;br&gt;- Authentication mechanism or session management;&lt;br&gt;- Changes in structure / technology in collections and invoicing ;&lt;br&gt;- Controls affecting the PCI DSS cardholder data environment;&lt;br&gt;- Request/response (i.e. API, web servers, DB connection);&lt;br&gt;- Form input validation;&lt;br&gt;- External library;&lt;br&gt;- SSL configuration;&lt;br&gt;- Private/public cryptography key functions;&lt;br&gt;- Data flows pertaining to sensitive information;&lt;br&gt;- Security configuration." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-96" y="364" width="567" height="243" as="geometry" />
+        </mxCell>
+        <mxCell id="hBUTBRrio8c5EA31uLLS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBUTBRrio8c5EA31uLLS-4" target="hBUTBRrio8c5EA31uLLS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBUTBRrio8c5EA31uLLS-4" value="Q2:&lt;br&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;You are creating, changing or invoking new API methods/calls.&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-97" y="650" width="568" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hBUTBRrio8c5EA31uLLS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBUTBRrio8c5EA31uLLS-5" target="hBUTBRrio8c5EA31uLLS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBUTBRrio8c5EA31uLLS-5" value="&lt;p class=&quot;MsoNormal&quot;&gt;Q3:&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;You are capturing new data fields or distributing new data fields to external third parties (e.g. adding new fields to web-application to capture data on an internet facing application).&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="840" width="575" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="hBUTBRrio8c5EA31uLLS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBUTBRrio8c5EA31uLLS-6" target="hBUTBRrio8c5EA31uLLS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBUTBRrio8c5EA31uLLS-17" value="Se alguma resposta acima for verdadeira:" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hBUTBRrio8c5EA31uLLS-16">
+          <mxGeometry x="0.0923" y="1" relative="1" as="geometry">
+            <mxPoint x="-12" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hBUTBRrio8c5EA31uLLS-6" value="Q4:&lt;br&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;You are creating new internal microservices for communication between other micro services using message queues (e.g. JMS that is used between registration and authentication applications) with comms passing an externally facing API.&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-103.5" y="1041" width="582" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="hBUTBRrio8c5EA31uLLS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBUTBRrio8c5EA31uLLS-7" target="hBUTBRrio8c5EA31uLLS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBUTBRrio8c5EA31uLLS-7" value="&lt;font style=&quot;font-size: 17px&quot;&gt;User Input:&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="64" y="159" width="246" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="hBUTBRrio8c5EA31uLLS-12" value="&lt;font style=&quot;font-size: 20px&quot;&gt;PSA Necessário&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="157" y="1412" width="929" height="167" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
