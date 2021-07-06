@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T14:05:31.247Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="-EpKIKP3_td12BQhgBHA" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-06T14:20:38.505Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="LZY8f2IzKVipr-jMW7V5" version="14.8.4" type="github">
   <diagram id="TiFRca5dtkU5tiBfq6bS" name="Page-1">
-    <mxGraphModel dx="1083" dy="1981" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1330" dy="2112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hBUTBRrio8c5EA31uLLS-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="650" y="55" width="1202" height="1258" as="geometry" />
+          <mxGeometry x="650" y="55" width="1202" height="1084" as="geometry" />
         </mxCell>
         <mxCell id="hBUTBRrio8c5EA31uLLS-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="650" y="-814" width="1202" height="2129" as="geometry" />
+          <mxGeometry x="650" y="-814" width="1202" height="1954" as="geometry" />
         </mxCell>
         <mxCell id="hBUTBRrio8c5EA31uLLS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBUTBRrio8c5EA31uLLS-1" target="hBUTBRrio8c5EA31uLLS-4">
           <mxGeometry relative="1" as="geometry" />
@@ -32,13 +32,13 @@
           <mxGeometry x="955" y="907" width="582" height="161" as="geometry" />
         </mxCell>
         <mxCell id="hBUTBRrio8c5EA31uLLS-12" value="&lt;font style=&quot;font-size: 20px&quot;&gt;PSA Necessário&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2147" y="154" width="929" height="167" as="geometry" />
+          <mxGeometry x="2153" y="200" width="929" height="167" as="geometry" />
         </mxCell>
         <mxCell id="hBUTBRrio8c5EA31uLLS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBUTBRrio8c5EA31uLLS-20" target="hBUTBRrio8c5EA31uLLS-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hBUTBRrio8c5EA31uLLS-20" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Nova request para produção&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="687" y="-1018" width="396" height="161" as="geometry" />
+          <mxGeometry x="1027" y="-1036" width="396" height="161" as="geometry" />
         </mxCell>
         <mxCell id="hBUTBRrio8c5EA31uLLS-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Avaliação Manual&lt;br&gt;(user input)&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1605" y="86" width="251" height="20" as="geometry" />
@@ -47,13 +47,13 @@
           <mxGeometry x="1577" y="-776" width="251" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hBUTBRrio8c5EA31uLLS-26" value="Check if application is hosted on premise but is moving to Cloud." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-515" width="390" height="140" as="geometry" />
+          <mxGeometry x="1030" y="-447" width="390" height="140" as="geometry" />
         </mxCell>
         <mxCell id="hBUTBRrio8c5EA31uLLS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBUTBRrio8c5EA31uLLS-31" target="hBUTBRrio8c5EA31uLLS-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hBUTBRrio8c5EA31uLLS-31" value="Check if a &lt;b&gt;NEW&lt;/b&gt; application has:&lt;br&gt;Network Type - Internet or Intranet&lt;br&gt;OR&lt;br&gt;Information Classification - Restrited or Confidential&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-707" width="390" height="140" as="geometry" />
+        <mxCell id="hBUTBRrio8c5EA31uLLS-31" value="Check if it&#39;s a&amp;nbsp;&lt;b&gt;NEW&lt;/b&gt; application and has:&lt;br&gt;Network Type - Internet or Intranet&lt;br&gt;OR&lt;br&gt;Information Classification - Restrited or Confidential&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="-667" width="390" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
